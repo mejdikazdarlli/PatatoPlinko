@@ -77,8 +77,14 @@ nav a {
   text-align: center;
   /* word-spacing: 10px; */
 }
+.left{
+  display: flex;
+  align-items: center;
+}
 .right{
   padding-right: 5%;
+  display: flex;
+  align-items: center;
 }
 .center {
   position: relative;
